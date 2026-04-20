@@ -1,4 +1,4 @@
-<img width="2878" height="1408" alt="image" src="https://github.com/user-attachments/assets/846af30a-4eb8-4cbd-b9c0-280e5b71dc2f" /># Vue小区物业管理系统
+
 
 #### 介绍
 前台使用Vue+ElementUI+Echarts+VCharts框架
