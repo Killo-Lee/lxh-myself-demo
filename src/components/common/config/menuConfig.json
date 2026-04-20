@@ -1,0 +1,171 @@
+[
+  {
+    "id": "1",
+    "title": "首页",
+    "_key": "/index",
+    "prentID": "0"
+  },
+  {
+    "id": "2",
+    "title": "房屋管理",
+    "_key": "/house",
+    "prentID": "0",
+    "children": [
+      {
+        "id": "2-1",
+        "title": "房屋单元",
+        "_key": "/house/unit",
+        "prentID": "2"
+      },
+      {
+        "id": "2-2",
+        "title": "房号管理",
+        "_key": "/house/number",
+        "prentID": "2"
+      },
+      {
+        "id": "2-3",
+        "title": "房屋设备信息",
+        "_key": "/house/deviceInfo",
+        "prentID": "2"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "车位管理",
+    "_key": "/parking",
+    "prentID": "0",
+    "children": [
+      {
+        "id": "3-1",
+        "title": "车位信息",
+        "_key": "/parking/parkMessage",
+        "prentID": "3"
+      },
+      {
+        "id": "3-2",
+        "title": "车位订单",
+        "_key": "/parking/parkPay",
+        "prentID": "3"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "计费管理",
+    "_key": "/pay",
+    "prentID": "0",
+    "children": [
+      {
+        "id": "4-1",
+        "title": "缴费类型",
+        "_key": "/pay/payType",
+        "prentID": "4"
+      },
+      {
+        "id": "4-2",
+        "title": "缴费信息",
+        "_key": "/pay/payMessage",
+        "prentID": "4"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "服务中心",
+    "_key": "/service",
+    "prentID": "0",
+    "children": [
+      {
+        "id": "5-1",
+        "title": "公告信息",
+        "_key": "/service/postMessage",
+        "prentID": "5"
+      },
+      {
+        "id": "5-2",
+        "title": "维修处理",
+        "_key": "/service/repair",
+        "prentID": "5"
+      },
+      {
+        "id": "5-3",
+        "title": "反馈服务",
+        "_key": "/service/feedback",
+        "prentID": "5"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "用户管理",
+    "_key": "/user",
+    "prentID": "0",
+    "children": [
+      {
+        "id": "6-1",
+        "title": "普通用户信息",
+        "_key": "/user/userMessage",
+        "prentID": "6"
+      },
+      {
+        "id": "6-2",
+        "title": "管理员信息",
+        "_key": "/user/adminMessage",
+        "prentID": "6"
+      },
+      {
+        "id": "6-3",
+        "title": "用户总表查询",
+        "_key": "/user/Message",
+        "prentID": "6"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "菜单管理",
+    "_key": "/menu",
+    "prentID": "0",
+    "children": [
+      {
+        "id": "7-1",
+        "title": "菜单列表",
+        "_key": "/menu/menuData",
+        "prentID": "7"
+      },{
+        "id": "7-2",
+        "title": "登录日志",
+        "_key": "/menu/loginData",
+        "prentID": "7"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "个人中心",
+    "_key": "/personal",
+    "prentID": "0",
+    "children": [
+      {
+        "id": "8-1",
+        "title": "我的信息",
+        "_key": "/personal/message",
+        "prentID": "8"
+      },
+      {
+        "id": "7-2",
+        "title": "密码修改",
+        "_key": "/personal/change",
+        "prentID": "8"
+      },
+      {
+        "id": "7-3",
+        "title": "小区群聊",
+        "_key": "/personal/joinChat",
+        "prentID": "8"
+      }
+    ]
+  }
+]

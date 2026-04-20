@@ -1,0 +1,86 @@
+{
+  "id": "5001881",
+  "name": "2506",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9874489",
+      "name": "KHCFDC_公告",
+      "font_class": "gonggao",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "1374597",
+      "name": "credit",
+      "font_class": "credit",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "1306",
+      "name": "购物车空",
+      "font_class": "gouwuchekong",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "650809",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "878675",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1110451",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "3847163",
+      "name": "天气",
+      "font_class": "tianqi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "3858884",
+      "name": "天气",
+      "font_class": "tianqi1",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "10568929",
+      "name": "sharpicons_Butterfly",
+      "font_class": "sharpicons_Butterfly",
+      "unicode": "e78c",
+      "unicode_decimal": 59276
+    },
+    {
+      "icon_id": "10568943",
+      "name": "sharpicons_Rooster",
+      "font_class": "sharpicons_Rooster",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "10568961",
+      "name": "sharpicons_crab",
+      "font_class": "sharpicons_crab",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    }
+  ]
+}
